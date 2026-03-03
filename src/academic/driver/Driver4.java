@@ -39,7 +39,7 @@ class Student {
     public String toString() {
         return nim + "|" + name + "|" + year + "|" + studyProgram;
     }
-}
+} 
 
 class Enrollment {
     String courseCode;
